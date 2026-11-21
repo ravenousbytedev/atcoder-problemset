@@ -2,6 +2,7 @@
 #include <ios>
 #include <iostream>
 #include <print>
+#include <ranges>
 #include <vector>
 
 int main() {
